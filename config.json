@@ -1,0 +1,17 @@
+{
+  "ownerNumber": ["62895330146373@s.whatsapp.net"],
+  "ownerName": ["LYEE HOST"],
+  "botName": "LYEE BOTZ",
+  "buttonName": "Youtube Official",
+  "buttonLink": "https://youtube.com/c/LyeeXzy",
+  "buttonName2": "Instagram",
+  "buttonLink2": "https://instagram.com/bollxxy.store",
+  "sessionName": "session",
+  "pathimg": "./media/hitomi.jpg",
+  "gamewaktu": 60,
+  "limitCount": 10,
+  "gcount": {
+	"prem": 99999,
+	"user": 10
+  }
+}
